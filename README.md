@@ -1,3 +1,3 @@
 # 学生成绩管理系统前端
 
-Vue 3 + TypeScript + Vite
+使用 Vue 3 + Vue-Router + TypeScript + Axios + Vite
